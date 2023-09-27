@@ -32,7 +32,7 @@ Results and Visualization: Review the results and visualizations to understand t
 Ensure you have the following dependencies installed:
 
 Python
-DeepFace
+DeepFace: pip install deepface 
 OpenCV
 TensorFlow
 NumPy
